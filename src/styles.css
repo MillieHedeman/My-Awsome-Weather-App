@@ -5,6 +5,9 @@ h5 {
 li {
 	border: none;
 }
+.container {
+	max-width: 800px;
+}
 .main-card {
 	display: block;
 	margin: 0 auto;
