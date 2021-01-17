@@ -1,0 +1,83 @@
+h5 {
+	padding: 0;
+	margin: 0;
+}
+li {
+	border: none;
+}
+.main-card {
+	display: block;
+	margin: 0 auto;
+}
+.titel {
+	text-align: center;
+}
+.next-predictions {
+	margin: 0 auto;
+}
+.prediction {
+	margin: 0 auto;
+}
+.prediction-body {
+	padding: 15px;
+}
+.prediction-item {
+	border: none;
+}
+#symbol-today {
+	font-size: 200px;
+	color: gray;
+	text-align: right;
+}
+.card-today {
+	margin: 0 auto;
+}
+.change-city {
+	padding: 0 0 0 5px;
+	margin: 24px auto;
+}
+.new-city-field {
+	text-align: right;
+}
+.search-button {
+	text-align: left;
+}
+#temperature-today {
+	color: rgb(33, 33, 33);
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 1;
+}
+
+.symbol-prediction {
+	font-size: 24px;
+	color: cornflowerblue;
+}
+.degree {
+	padding: 0 15px 0 0;
+	text-align: right;
+}
+#date-today {
+	text-align: right;
+}
+#city-display {
+	color: rgb(33, 33, 33);
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 1;
+}
+.units {
+	position: relative;
+	top: -12px;
+	font-size: 16px;
+}
+.row-today {
+	text-align: right;
+}
+.today-line {
+	text-align: right;
+	float: right;
+}
+#body-card-today {
+	text-align: right;
+}
